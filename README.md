@@ -41,7 +41,5 @@ Professionally, I’ve worn many hats:
 Whether you want to talk backend systems, cybersecurity, hackathons, or how to clutch a 1v3 on Ascent — I’m always up for a good chat.
 
 📫 ggerges019@gmail.com 
-... or Connect on LinkedIn! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriella_Gerges-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-gerges)
 
 
