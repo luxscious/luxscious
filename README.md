@@ -3,7 +3,7 @@
 I’m a Software Engineer and cybersecurity researcher based in Canada, with a deep love for solving real-world problems through code — and a slightly unhealthy obsession with competitive gaming 😄.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriella_Gerges-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-gerges)
-
+📄 [Resume (PDF)](https://github.com/luxscious/git-cloud-storage/blob/main/resume.pdf) 
 ---
 
 ### 🧠 What I Do
@@ -13,7 +13,7 @@ I'm a recent Master's graduate in Software Engineering from Western University, 
 Professionally, I’ve worn many hats:
 - **Full-Stack Developer** at [Hyperpad](https://hyperpad.com), a YC-backed startup — I led backend development, built GraphQL APIs, collaborated with designers, and mentored new devs.
 - **Teaching Assistant** at Western, where I ran labs on AWS, JavaFX, web dev, and more. I loved helping students build confidence in their code.
-- **Hackathon warrior** 🥇 — I’ve competed in multiple hackathons and built projects like *Val-T*, an AI agent for gamers that gives post-match feedback based on gameplay data.
+- **Hackathon warrior** 🥇 — I’ve competed in multiple hackathons, placing in two (SheHacks and TamuHacks)
 
 ---
 
@@ -40,6 +40,8 @@ Professionally, I’ve worn many hats:
 
 Whether you want to talk backend systems, cybersecurity, hackathons, or how to clutch a 1v3 on Ascent — I’m always up for a good chat.
 
-📫 [luxscious.github.io](https://luxscious.github.io)  
+📫 ggerges019@gmail.com 
+... or Connect on LinkedIn! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriella_Gerges-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-gerges)
 
 
