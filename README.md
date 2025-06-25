@@ -26,7 +26,7 @@ Professionally, I’ve worn many hats:
 - **ML & Security**: Scikit-learn, packet sniffing tools (Kali Linux), intrusion detection systems
 
 ---
-=
+
 
 ### 🕹 Outside of Code
 
