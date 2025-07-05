@@ -10,6 +10,9 @@ I’m a Software Engineer and cybersecurity researcher based in Canada, with a d
 
 I'm a recent Master's graduate in Software Engineering from Western University, where I focused my research on securing **EV charging infrastructure**. My thesis explored open-source tools like **EVerest** and **MQTT**, modeled real-world attack scenarios, and built **machine learning-based intrusion detection systems** to keep our electric future safe. 🔌⚡
 
+Recently, I also built and deployed a portfolio chatbot that uses a combination of Go, React, Neo4j, and LLM-powered intent parsing to answer questions about my experience in real time.
+👉 [Try it here](https://luxscious.github.io/portfolio-chat-bot/) 
+
 Professionally, I’ve worn many hats:
 - **Full-Stack Developer** at [Hyperpad](https://hyperpad.com), a YC-backed startup — I led backend development, built GraphQL APIs, collaborated with designers, and mentored new devs.
 - **Teaching Assistant** at Western, where I ran labs on AWS, JavaFX, web dev, and more. I loved helping students build confidence in their code.
